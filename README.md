@@ -1,22 +1,28 @@
-# 🐧 Terminal Practice Repository
+# Terminal Practice
 
-My daily practice repository for learning terminal commands.
+A small reference repository for learning command-line basics and practicing terminal workflows.
 
-## 📂 Sessions
-- [Session 1 - Basics](./session-1/practice.md) - March 4, 2026
+## Sessions
 
-## 📚 Topics Covered
-- Navigation (pwd, cd, ls)
-- File Operations (mkdir, touch, rm)
-- Content Editing (echo, cat, head)
+- [Session 1 — Basics](./session-1/practice.md)
+- [Command reference](./commands/)
 
-## 🚀 Quick Start
+## Topics
+
+- Navigation: `pwd`, `cd`, `ls`
+- File and directory operations
+- Reading and writing text files
+- Basic shell workflow
+
+## Clone and explore
+
 ```bash
-# Clone this repo
-git clone https://github.com/yourusername/terminal-practice.git
+git clone https://github.com/hammadmuntazir/Terminal-Practice.git
+cd Terminal-Practice
+```
 
-# Navigate to session folder
-cd terminal-practice/session-1
+Open the Markdown files for examples. Commands can differ between Bash, PowerShell, and Command Prompt, so check which shell each example targets.
 
-# View practice file
-cat practice.md
+## Portfolio context
+
+This is a learning reference rather than a standalone software project. It supports everyday development workflow skills.
